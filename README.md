@@ -1,2 +1,2 @@
-# taufi
-name of my git repository 
+# Android hello world
+name of my android app 
